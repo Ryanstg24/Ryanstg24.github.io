@@ -2,7 +2,7 @@
 # Ryan St George (2024)
 
 ## Code Review
-See Code Review Here
+[Watch Code Review Here](https://www.youtube.com/watch?v=mSAnqq-4Pt0)  
   
 ## Category 1: Software Engineering and Design
 Showcasing my work from CS-210 Programming Languages, Project 2. This was a compounding calculator which was designed to take an initial investment, monthly deposit, interest, and then calculate your money over x amount of years of investing.  
