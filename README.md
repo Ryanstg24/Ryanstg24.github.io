@@ -2,6 +2,15 @@
 # Ryan St George (2024)
 
 ## Professional Self-Assessment  
+The journey through my Computer Science program has been nothing short of transformative, marked by a series of progressive milestones from my first Python class to the development of sophisticated full-stack web applications. This experience, encapsulated within my ePortfolio, serves not only as a testament to my acquired skills but also as a profound reflection of my growth. It has illuminated my strengths, helping shape my professional goals and values, and significantly boosting my employability in the tech industry. The process of navigating through the challenges, from initial struggles to meeting the criteria, has underscored the essence of perseverance and adaptability in my professional ethos.  
+	 
+ Collaboration has been a cornerstone of my educational experience, teaching me the value of teamwork and effective communication within diverse groups. Whether it be for a specific project, communication with a professor, school in general, or even outside of school. This experience shows the deep appreciation for the dynamics of teamwork and the importance and environment where collaboration can thrive, especially in a fast paced industry like this one.  
+	
+ The Computer Science program emphasized the crucial role of clear communication and many other skills including articulating complex technical concepts in an accessible manner. Allowing technical and non technical teams being able to collaborate. Something that is quite common in the professional world. Allowing me to intricate information which will enhance my effectiveness in any future role within the computer science field.  
+	
+ A significant part of my Computer Science degree was mastering skills like data structures and algorithms, software engineering principles, and database management. Each contributing to a comprehensive skill set. From optimizing algorithms for efficiency to designing scalable software architectures, these experiences have endowed me with a robust technical foundation. Moreover, integrating security measures into software solutions highlighted the paramount importance of cybersecurity, preparing me to contribute to the development of secure, reliable applications.  
+	
+ In conclusion, the artifacts selected and shown below for my ePortfolio collectively narrate the story of my development as a computer scientist. They not only demonstrate a range of technical proficiencies from programming to security but also reflect my journey of personal and professional growth. This portfolio stands as a dynamic introduction to my capabilities, showcasing my readiness to embark on a successful career in technology. It represents a bridge from my academic achievements to future aspirations, highlighting my preparedness to contribute to the tech industry.
 
 
 ## Code Review
