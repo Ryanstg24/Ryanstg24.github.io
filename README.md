@@ -1,6 +1,9 @@
 # Computer Science Capstone
 # Ryan St George (2024)
 
+## Professional Self-Assessment  
+
+
 ## Code Review
 [Watch Code Review Here](https://www.youtube.com/watch?v=mSAnqq-4Pt0)  
   
@@ -24,4 +27,3 @@ Original Artifact:  [Click Here](https://drive.google.com/drive/folders/16KtORNm
 Enhancements:  [See Enhancements Here](https://drive.google.com/drive/folders/1ZE8E9rLoVrGsoOEPgzyOf5U-65s3kCPC?usp=sharing)  
 Narrative:  [Read Narrative Here](https://docs.google.com/document/d/1XN5O3vHZW9Ey9CGcQVzJKBVkMWj9npI6/edit?usp=sharing&ouid=105079091212575997712&rtpof=true&sd=true)  
 
-## Professional Self-Assessment
